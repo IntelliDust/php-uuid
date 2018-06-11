@@ -7,7 +7,7 @@
   ],
   "homepage": "https://github.com/IntelliDust/php-uuid",
   "type": "library",
-  "license": "",
+  "license": "JSON",
   "authors": [
     {
       "name": "Slavoj SANTA Hruska",
