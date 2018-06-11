@@ -1,5 +1,5 @@
 {
-  "name": "IntelliDust/php-uuid",
+  "name": "intellidust/uuid",
   "description": "Simple UUID generating library",
   "keywords": [
     "UUID",
@@ -10,12 +10,11 @@
   "license": "",
   "authors": [
     {
-      "name": "Andrew Moore",
-      "email": ""
+      "name": "Slavoj SANTA Hruska",
+      "email": "santa@rsnet.sk"
     },
     {
-      "name": "Slavoj SANTA Hruska",
-      "email": ""
+      "name": "Andrew Moore"
     }
   ],
   "minimum-stability": "dev",
