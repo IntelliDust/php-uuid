@@ -1,0 +1,30 @@
+{
+  "name": "IntelliDust/php-uuid",
+  "description": "Simple UUID generating library",
+  "keywords": [
+    "UUID",
+    "PHP"
+  ],
+  "homepage": "https://github.com/IntelliDust/php-uuid",
+  "type": "library",
+  "license": "",
+  "authors": [
+    {
+      "name": "Andrew Moore",
+      "email": ""
+    },
+    {
+      "name": "Slavoj SANTA Hruska",
+      "email": ""
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "IntelliDust\\UUID\\": "src/"
+    }
+  }
+}
